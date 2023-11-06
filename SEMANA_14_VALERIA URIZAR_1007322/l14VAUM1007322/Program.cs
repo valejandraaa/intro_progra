@@ -18,7 +18,7 @@ namespace l14VAUM1007322
 
             for (int i = 0; i < numeros.Length; i++)
             {
-                Console.WriteLine($"Ingrese el número {i + 1}: ");
+                Console.WriteLine("Ingrese el número {i + 1}: ");
                 numeros[i] = Convert.ToInt32(Console.ReadLine());
 
                 if (numeros[i] > numeroMayor)
@@ -40,24 +40,22 @@ namespace l14VAUM1007322
                 }
             }
 
-            Console.WriteLine("El número mayor es: {numeroMayor}");
-            Console.WriteLine("El número menor es: {numeroMenor}");
-            Console.WriteLine("La cantidad de números negativos es: {cantidadNegativos}");
-            Console.WriteLine("La cantidad de números positivos es: {cantidadPositivos}");
+            Console.WriteLine("El número mayor es: numeroMayor");
+            Console.WriteLine("El número menor es: numeroMenor");
+            Console.WriteLine("La cantidad de números negativos es: cantidadNegativos");
+            Console.WriteLine("La cantidad de números positivos es: cantidadPositivos");
 
             Console.WriteLine("Los números ingresados son: ");
-            foreach (int numero in numeros)
+            for (int numero in numeros)
             {
-                Console.Write($"{numero} ");
+                Console.Write("numero");
             }
             Console.WriteLine();
 
             Console.Write("¿Desea ingresar otro número? (s/n): ");
             string respuesta = Console.ReadLine();
-            if (respuesta.ToLower() == "s")
-            {
-                Console.WriteLine("Ingrese un número adicional: ");
-                int numeroAdicional = Convert.ToInt32(Console.ReadLine());
+            Console.ReadKey(); 
+        
 
 
 
