@@ -1,0 +1,7 @@
+C:\Users\valer\OneDrive\Escritorio\INGENIERIA\ciclo 11\LABPROGRA\PROYECTO 2\proyecto final 2 juego dado\juego dado proyecto 2\bin\Debug\juego dado proyecto 2.exe.config
+C:\Users\valer\OneDrive\Escritorio\INGENIERIA\ciclo 11\LABPROGRA\PROYECTO 2\proyecto final 2 juego dado\juego dado proyecto 2\bin\Debug\juego dado proyecto 2.exe
+C:\Users\valer\OneDrive\Escritorio\INGENIERIA\ciclo 11\LABPROGRA\PROYECTO 2\proyecto final 2 juego dado\juego dado proyecto 2\bin\Debug\juego dado proyecto 2.pdb
+C:\Users\valer\OneDrive\Escritorio\INGENIERIA\ciclo 11\LABPROGRA\PROYECTO 2\proyecto final 2 juego dado\juego dado proyecto 2\obj\Debug\juego dado proyecto 2.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Escritorio\INGENIERIA\ciclo 11\LABPROGRA\PROYECTO 2\proyecto final 2 juego dado\juego dado proyecto 2\obj\Debug\juego dado proyecto 2.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Escritorio\INGENIERIA\ciclo 11\LABPROGRA\PROYECTO 2\proyecto final 2 juego dado\juego dado proyecto 2\obj\Debug\juego dado proyecto 2.exe
+C:\Users\valer\OneDrive\Escritorio\INGENIERIA\ciclo 11\LABPROGRA\PROYECTO 2\proyecto final 2 juego dado\juego dado proyecto 2\obj\Debug\juego dado proyecto 2.pdb
